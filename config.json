@@ -1,0 +1,11 @@
+{
+	"name": "Salesforce Org Compare",
+	"author": "Daniel Llewellyn",
+	"version": 1.0,
+	"path1": "source\\your first project folder",
+	"path2": "source\\your second project folder",
+	"path1Nickname": "My Production Org",
+	"path2Nickname": "My Sandbox Org",
+	"outputPath": "diffs",
+	"stripSFIds": true,
+}
